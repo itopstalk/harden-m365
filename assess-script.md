@@ -1,4 +1,4 @@
-The following script checks whether this lab's security controls have been implemented:
+The following script checks whether the security controls assessed in this lab have been implemented. Note that in a real world environment, you would have to verify that each account has registered for MFA rather than just configuring policies.
 
 ``` PowerShell
 #Requires -Version 5.1

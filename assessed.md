@@ -41,3 +41,5 @@ Implement the following security controls in the assigned Microsoft 365 tenant. 
 10. **Self-service password reset for all users**
 
     Set **Self service password reset enabled** to **All** for the tenant. Enabling reset only for selected users or a selected group does not meet this requirement.
+
+The PowerShell script on the next page allows you to assess whether the specific security controls we are testing in this lab have been implemented.
